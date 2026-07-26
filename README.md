@@ -1,5 +1,7 @@
 # SmartBuy
 
+<!-- CI gate test: this PR should be blocked from merging until the `build` check passes. -->
+
 A full-stack e-commerce demo: browse products by category, add to cart,
 check out through a multi-stage flow (shipping → dummy payment → review),
 and get a receipt. Stock quantities decrement atomically when an order is
